@@ -1,1 +1,1 @@
-# Portfolio
+Welcome to the Memory Card Game! Test your memory and matching skills with this fun and interactive game. Click on cards to reveal their images and try to find their match. Keep track of your time and number of moves. Play now and see how well you can do! Enjoy the game
